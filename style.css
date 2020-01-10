@@ -154,7 +154,6 @@
 /* section */
 
 .main{
-    border: 1px solid black;
     width: 65%;
     margin: 0 auto;
     height: 773px;
@@ -331,7 +330,6 @@ ul{
 
 
 .middle{
-    border: 1px solid black;
     float: left;
     height: 773px;
     width: 55.4%;
@@ -457,3 +455,123 @@ ul{
 .border{
    border: 2px solid #77a6a0;
 }
+
+.cdata{
+    height: 130px;
+    box-sizing: border-box;
+    border-bottom: 2px solid#e9e9e9;
+
+}
+
+.cphoto{
+    height: 98px;
+    width: 13.7%;
+    float: left;
+    margin-top: 17px;
+    box-sizing: border-box;
+}
+
+img{
+    height: 92px;
+    width: 100%;
+    padding-top: 5px;
+    box-sizing: border-box;
+}
+
+.ccmt{
+    height: 98px;
+    width: 85%;
+    float: right;
+    margin-top: 17px;
+    box-sizing: border-box;
+}
+
+p{
+    padding-top: 4px;
+    padding-left: 4px;   
+}
+
+.by{
+    font-size: 13px;
+    padding-top: 8px;
+}
+
+.gfont{
+    font-size: 11.5px;
+    padding-top: 5px;
+}
+
+.blade{
+    padding-top: 5px;
+}
+
+.date{
+    font-size: 13px;
+
+}
+
+span{
+    font-size: 11.8px;
+}
+
+/* middle */
+
+
+
+/* footer */
+
+.foot{
+    width: 69.2%;
+    height: 56px;
+    margin-top: 39px;
+    margin-left: 284px;
+    background-color: #727272;
+}
+
+.fotterl{
+    display: flex;
+}
+
+.compare1{
+    font-size: 11px;
+    margin-top: 21px;
+    margin-left: 44px;
+    color: white;
+}
+
+.compare2{
+    font-size: 11px;
+    margin-top: 21px;
+    margin-left: 18px;
+    color: white;
+}
+
+.compare3{
+    font-size: 11px;
+    margin-top: 21px;
+    margin-left: 23px;
+    color: white;
+}
+
+.compare4{
+    font-size: 11px;
+    margin-top: 21px;
+    margin-left: 26px;
+    color: white;
+}
+
+.compare5{
+    font-size: 11px;
+    margin-top: 21px;
+    margin-left: 22px;
+    color: white;
+}
+
+.compare6{
+    font-size: 11px;
+    margin-top: 21px;
+    margin-left: 683px;
+    color: white;
+}
+
+
